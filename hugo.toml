@@ -1,0 +1,11 @@
+baseURL = 'https://vegasword.codeberg.page/gallery'
+locale = 'en-us'
+title = 'vegasword - Gallery'
+
+[module]
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
