@@ -1,4 +1,4 @@
-baseURL = 'https://vegasword.codeberg.page/gallery'
+baseURL = 'https://vegasword.github.io/gallery'
 locale = 'en-us'
 title = 'vegasword - Gallery'
 
