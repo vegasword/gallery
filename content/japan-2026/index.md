@@ -1,4 +1,5 @@
 ---
 date: 2026-11-01T00:00:00+02:00
 title: Japan 2026
+description: Osaka & Tokyo
 ---
